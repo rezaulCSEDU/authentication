@@ -3,13 +3,13 @@ It is a node.js based application where I try to build a log in system with mong
 
 # Used package 
 
---dotenv
---express
---body-parser
---ejs
---mongoose
---express-session
---passport
---passport-local-mongoose
---passport-google-oauth20
---mongoose-findorcreate
+-- dotenv
+-- express
+-- body-parser
+-- ejs
+-- mongoose
+-- express-session
+-- passport
+-- passport-local-mongoose
+-- passport-google-oauth20
+-- mongoose-findorcreate
